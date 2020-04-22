@@ -4,7 +4,7 @@
   "parameters": {
     "namingPrefix": {
       "type": "string",
-      "defaultValue": "contoso"
+      "defaultValue": "echotest132605"
     },
     "appServicePlanSku": {
       "type": "string",
