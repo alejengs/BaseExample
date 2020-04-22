@@ -16,7 +16,7 @@
     },
     "sourceCodeRepositoryURL": {
       "type": "string",
-      "defaultValue": "https://github.com/gsacavdm/gov-arm-functions"
+      "defaultValue": "https://github.com/alejengs/BaseExample"
     },
     "sourceCodeBranch": {
       "type": "string",
